@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucascvalle
-- 👀 I’m interested in learning scientific computing, graduating at Faculdade Descomplica
+- 👀 I’m interested in learning computer science, graduating at Faculdade Descomplica
 - 🌱 I’m currently learning Python, Java, C and Git 
 - 📫 Reach me at: lucascvalle@outlook.com or [LinkedIn](https://www.linkedin.com/in/lucascvalle)
 
