@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucascvalle
 - 👀 I’m interested in learning computer science, graduating at Faculdade Descomplica
-- 🌱 I’m currently learning Python, Java, C and Git 
+- 🌱 I’m a Python developer and currently i'm learning Javascript and Swift
 - 📫 Reach me at: lucascvalle@outlook.com or [LinkedIn](https://www.linkedin.com/in/lucascvalle)
 
 <a href="[https://www.artstation.com/wronarowicz](https://en.wikipedia.org/wiki/Neuromancer)" target="_blank">
