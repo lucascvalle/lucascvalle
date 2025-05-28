@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucascvalle
-- 👀 I am a Full-Stack Developer with a focus on building scalable RESTful APIs using Python and Django.
+- 👀 I am a Full-Stack Developer with a focus on building scalable RESTful APIs using Python.
 - 🌱 I have worked on various projects, including backend development for Android applications and cost estimation systems for the woodworking industry. In these projects, I have gained hands-on experience in API development, database management, and automation using tools like Django, PostgreSQL, Excel with VBA, and AutoCAD.
 - 📫 Feel free to explore my repositories and contact me for collaborations or inquiries! Reach me at: lucascvalle@outlook.com or [LinkedIn](https://www.linkedin.com/in/lucascvalle)
 
